@@ -8,10 +8,14 @@ During my time as a research assistant and PhD student, I had the opportunity to
 
 **Winter Term 2021/22**
 
+<br />
+
 **Summer Term 2021**
 
 Graduate Elective: Advanced Seminar in Operations and Supply Chain Management - TUM School of Management
 Graduate Elective: Modeling Future Mobility Systems - TUM School of Management
+
+<br />
 
 **Winter Term 2020/21**
 
