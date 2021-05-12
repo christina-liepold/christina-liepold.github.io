@@ -13,8 +13,8 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Research
-    # - name: Teaching
+    # - name: Research
+    - name: Teaching
     # - name: CV
 
 footer:
