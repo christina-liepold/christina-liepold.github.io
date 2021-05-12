@@ -6,9 +6,10 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
-
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Welcome!
+  
+  I am a PhD student and Research Assistant at the Professorship of Operations and Supply Chain Management at TUM School of Management. Previously, I completed the Master and Bachelor of Science in Management and Technology at TUM with a research stay at CIRRELT in Montréal, Canada, during my Master’s Thesis in 2020. 
+  
+  My research focuses on auction theory and network optimization as well as their implementation within “as-a-Service”-applications.  
+  
 </p>
