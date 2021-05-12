@@ -28,9 +28,9 @@ footer:
       # link: http://twitter.com/YourTwitterUsername
       # username: "@YourTwitterUsername"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/christina-liepold
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/christina-liepold
 
 # Build settings
 markdown: kramdown
