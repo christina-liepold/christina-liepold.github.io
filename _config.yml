@@ -14,8 +14,8 @@ header:
     - name: About
       slug: /
     - name: Research
-    - name: Teaching
-    - name: CV
+    # - name: Teaching
+    # - name: CV
 
 footer:
   show_powered_by: true
