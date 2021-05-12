@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: work
 title: Teaching
 slug: /teaching
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+During my time as a research assistant and PhD student, I had the opportunity to teach both virtual and in-person classes.
 <br />
