@@ -21,8 +21,6 @@ During my time as a research assistant and PhD student, I had the opportunity to
 * Graduate Elective: Advanced Seminar in Operations and Supply Chain Management 
 * Graduate Elective: Modeling Future Mobility Systems
 
-*Online Workshop with GERAD Institute, Montréal* 
-
-Python for Operations Research - [online recordings](https://www.youtube.com/watch?v=MD2KSd4M68M&list=PLV_P5YiB-jct6AHc_bGBoQZ3dMRmBOAaV)
+*Online Workshop with GERAD Institute, Montréal* Python for Operations Research - [online recordings](https://www.youtube.com/watch?v=MD2KSd4M68M&list=PLV_P5YiB-jct6AHc_bGBoQZ3dMRmBOAaV)
 
 <br />
