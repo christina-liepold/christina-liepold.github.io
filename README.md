@@ -1,3 +1,3 @@
 # Welcome to my personal website 
 
-For this, I use the bay theme [[view live]](https://eliottvincent.github.io/bay)
+For this, I use the bay theme [[available here]](https://eliottvincent.github.io/bay)
