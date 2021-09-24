@@ -3,12 +3,8 @@ layout: home
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: picture
-  width: 80px
+  width: 50px
 ---
-
-<br>
-<br>
-<br>
 
 **Welcome!**
   
