@@ -11,7 +11,7 @@ In my research, I focus mainly on:
 In the realm of procurement auctions and general platform applications, I work on the analysis of the implementation of operational sharing processes and their impact on the overall market places. In particular, I focus on production capacity sharing in Production as a Service markets.
 
 * C. J. Liepold, O. Arslan, G. Laporte, and M. Schiffer, "The Impact of Partial Production Capacity Sharing via Production as a Service", working paper, 2022, preprint available at [https://dx.doi.org/10.2139/ssrn.4238745](https://dx.doi.org/10.2139/ssrn.4238745)
-* 
+
 <br />
 
 Other research interests revolve around supply chain resilience and optimization as well as production planning. Oftentimes, this research results from joint work together with students.
