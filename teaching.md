@@ -16,8 +16,8 @@ In addition, I have supervised multiple Bachelor and Master Theses.
 
 *Online Workshops with GERAD Institute, Montréal* 
 
-Python for Operations Research Intermediate - [link to GERAD website](https://www.gerad.ca/fr/events/1964)
+* Python for Operations Research Intermediate - [link to GERAD website](https://www.gerad.ca/fr/events/1964)
 
-Python for Operations Research - [online recordings](https://www.youtube.com/watch?v=MD2KSd4M68M&list=PLV_P5YiB-jct6AHc_bGBoQZ3dMRmBOAaV)
+* Python for Operations Research - [online recordings](https://www.youtube.com/watch?v=MD2KSd4M68M&list=PLV_P5YiB-jct6AHc_bGBoQZ3dMRmBOAaV)
 
 <br />
