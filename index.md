@@ -19,3 +19,6 @@ profile_picture:
   My research focuses on auction theory and network optimization as well as their implementation within “as-a-Service”-applications in different settings, e.g., procurement auctions and retail platforms.
   
 </p>
+
+<br />
+<br />
