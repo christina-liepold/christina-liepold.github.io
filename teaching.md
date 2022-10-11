@@ -14,6 +14,8 @@ In addition, I have supervised multiple Bachelor and Master Theses.
 * Modeling Future Mobility Systems --- **Winter Term 2020/21 - Summer Term 2021**
 <br />
 
+
+
 *Online Workshops with GERAD Institute, Montréal* 
 
 * Python for Operations Research Intermediate - [link to GERAD website](https://www.gerad.ca/fr/events/1964)
