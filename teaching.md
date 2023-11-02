@@ -7,6 +7,12 @@ slug: /teaching
 During my time as a research assistant and PhD student, I have had the opportunity to teach both virtual and in-person classes.
 In addition, I have supervised multiple Bachelor and Master Theses.
 
+*Undergraduate Course at TUM School of Management*
+
+* Machine Learning for Business Applications --- **since Winter Term 2023/24**
+<br />
+
+
 *Graduate Electives at TUM School of Management*
 
 * Advanced Seminar in Operations and Supply Chain Management --- **since Winter Term 2020/21**
