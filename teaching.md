@@ -11,6 +11,7 @@ In addition, I have supervised multiple Bachelor and Master Theses.
 
 * Machine Learning for Business Applications --- **since Winter Term 2023/24**
 <br />
+<br />
 
 
 *Graduate Electives at TUM School of Management*
@@ -19,7 +20,7 @@ In addition, I have supervised multiple Bachelor and Master Theses.
 
 * Modeling Future Mobility Systems --- **Winter Term 2020/21 - Summer Term 2021**
 <br />
-
+<br />
 
 
 *Online Workshops with GERAD Institute, Montréal* 
