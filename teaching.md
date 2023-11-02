@@ -10,8 +10,7 @@ In addition, I have supervised multiple Bachelor and Master Theses.
 *Undergraduate Course at TUM School of Management*
 
 * Machine Learning for Business Applications --- **since Winter Term 2023/24**
-<br />
-<br />
+&nbsp;
 
 
 *Graduate Electives at TUM School of Management*
