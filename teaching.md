@@ -11,6 +11,7 @@ In addition, I have supervised multiple Bachelor and Master Theses on topics suc
 * Machine Learning for Business Applications --- **since Winter Term 2023/24**
 
 *Graduate Electives at TUM School of Management*
+* Location & Transportation Planning Module (Master in Management & Innovation) --- **Winter Term 2023/24** 
 * Advanced Seminar in Operations and Supply Chain Management --- **since Winter Term 2020/21**
 * Modeling Future Mobility Systems --- **Winter Term 2020/21 - Summer Term 2021**
 
