@@ -8,9 +8,10 @@ In my research, I focus mainly on:
 
 **Combinatorial Auctions & Innovative Platform Applications**
 
-In the realm of procurement auctions and general platform applications, I work on the analysis of the implementation of operational sharing processes and their impact on the overall market places. In particular, I focus on production capacity sharing in Production as a Service markets.
+In the realm of procurement auctions and general platform applications, I work on the analysis of the implementation of operational sharing processes and their impact on the overall market places. 
 
 * **Liepold, C. J.**, Arslan, O., Laporte, G., & Schiffer, M. (2024). The impact of partial production capacity sharing via production as a service. Computers & Operations Research, 106587.
+* **Liepold, C. J.**, Amorim, P., & Schiffer, M. (2024). Mitigating Retail Platform Externalities via Inter-Supplier Returns. [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999165)
 
 <br />
 
